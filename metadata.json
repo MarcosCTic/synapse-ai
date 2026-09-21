@@ -1,0 +1,6 @@
+{
+  "name": "SYNAPSE AI • ML & Data Science Platform",
+  "description": "Plataforma interactiva futurista para explorar Inteligencia Artificial, Machine Learning, Redes Neuronales y Ciencia de Datos con simuladores interactivos en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
